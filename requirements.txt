@@ -4,3 +4,11 @@ scikit-learn
 matplotlib
 seaborn
 statsmodels
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+tensorflow
